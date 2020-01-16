@@ -52,6 +52,8 @@ main a{
     height: 45px;
     border-radius: 20px;
     border: 1px solid #bdbdbd;
+    outline: none;
+    padding-left: 20px;
 }
 
 .button {
@@ -63,6 +65,7 @@ main a{
     border-radius: 5px;
     border: 0;
     color: #616161;
+    outline-width: thin;
 }
 
 footer p {
